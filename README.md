@@ -13,4 +13,4 @@ __Insights__
 
 The IBM employees are very youthfull with the majority of attritions coming from staff between the ages of 27 and 36.
 
-Also, age has no correlation with attrition which means, its not automatic the the more a staff grows the higher the probabilty of her or she resigning from the company.
+Also, age has no correlation with attrition which means, its not automatic the the more a staff grows the higher the probability of her or she resigning from the company.
